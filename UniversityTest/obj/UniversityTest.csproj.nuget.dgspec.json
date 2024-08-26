@@ -1,0 +1,301 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\UniversityTest\\UniversityTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\c151159\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\c151159\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\ServiceContracts\\ServiceContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\ServiceContracts\\ServiceContracts.csproj",
+        "projectName": "ServiceContracts",
+        "projectPath": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\ServiceContracts\\ServiceContracts.csproj",
+        "packagesPath": "C:\\Users\\c151159\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\ServiceContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\c151159\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\c151159\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\c151159\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\ServiceContracts\\ServiceContracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\UniversityTest\\UniversityTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\UniversityTest\\UniversityTest.csproj",
+        "projectName": "UniversityTest",
+        "projectPath": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\UniversityTest\\UniversityTest.csproj",
+        "packagesPath": "C:\\Users\\c151159\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\UniversityTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\c151159\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

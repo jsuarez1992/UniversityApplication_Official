@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\UNIVERSITY_APPLICATION\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.UNIVERSITY_APPLICATION.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.UNIVERSITY_APPLICATION.props",
+      "PackagePath": "build\\UNIVERSITY_APPLICATION.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.UNIVERSITY_APPLICATION.props",
+      "PackagePath": "buildMultiTargeting\\UNIVERSITY_APPLICATION.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.UNIVERSITY_APPLICATION.props",
+      "PackagePath": "buildTransitive\\UNIVERSITY_APPLICATION.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

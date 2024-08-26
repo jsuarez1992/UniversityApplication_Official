@@ -1,0 +1,15 @@
+C:\Users\c151159\Desktop\CENTRIA\UNIVERSITYAPPLICATION\UNIVERSITY_APPLICATION\ServiceContracts\bin\Debug\net6.0\ServiceContracts.deps.json
+C:\Users\c151159\Desktop\CENTRIA\UNIVERSITYAPPLICATION\UNIVERSITY_APPLICATION\ServiceContracts\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\c151159\Desktop\CENTRIA\UNIVERSITYAPPLICATION\UNIVERSITY_APPLICATION\ServiceContracts\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Users\c151159\Desktop\CENTRIA\UNIVERSITYAPPLICATION\UNIVERSITY_APPLICATION\ServiceContracts\obj\Debug\net6.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c151159\Desktop\CENTRIA\UNIVERSITYAPPLICATION\UNIVERSITY_APPLICATION\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\c151159\Desktop\CENTRIA\UNIVERSITYAPPLICATION\UNIVERSITY_APPLICATION\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\c151159\Desktop\CENTRIA\UNIVERSITYAPPLICATION\UNIVERSITY_APPLICATION\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\c151159\Desktop\CENTRIA\UNIVERSITYAPPLICATION\UNIVERSITY_APPLICATION\ServiceContracts\obj\Debug\net6.0\ServiceContracts.dll
+C:\Users\c151159\Desktop\CENTRIA\UNIVERSITYAPPLICATION\UNIVERSITY_APPLICATION\ServiceContracts\obj\Debug\net6.0\refint\ServiceContracts.dll
+C:\Users\c151159\Desktop\CENTRIA\UNIVERSITYAPPLICATION\UNIVERSITY_APPLICATION\ServiceContracts\obj\Debug\net6.0\ServiceContracts.pdb
+C:\Users\c151159\Desktop\CENTRIA\UNIVERSITYAPPLICATION\UNIVERSITY_APPLICATION\ServiceContracts\obj\Debug\net6.0\ref\ServiceContracts.dll
+C:\Users\c151159\Desktop\CENTRIA\UNIVERSITYAPPLICATION\UNIVERSITY_APPLICATION\ServiceContracts\bin\Debug\net6.0\Entities.dll
+C:\Users\c151159\Desktop\CENTRIA\UNIVERSITYAPPLICATION\UNIVERSITY_APPLICATION\ServiceContracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\c151159\Desktop\CENTRIA\UNIVERSITYAPPLICATION\UNIVERSITY_APPLICATION\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\c151159\Desktop\CENTRIA\UNIVERSITYAPPLICATION\UNIVERSITY_APPLICATION\ServiceContracts\obj\Debug\net6.0\ServiceC.04662A29.Up2Date

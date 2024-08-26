@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "oDQJRSultJ0aq/I9EcT1slr9TkJkafE16gxH2tM5Mqs=",
+  "Source": "UNIVERSITY_APPLICATION",
+  "BasePath": "_content/UNIVERSITY_APPLICATION",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UNIVERSITY_APPLICATION\\wwwroot",
+      "Source": "UNIVERSITY_APPLICATION",
+      "ContentRoot": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\UNIVERSITY_APPLICATION\\wwwroot\\",
+      "BasePath": "_content/UNIVERSITY_APPLICATION",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\UNIVERSITY_APPLICATION\\wwwroot\\StyleSheet.css",
+      "SourceId": "UNIVERSITY_APPLICATION",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\c151159\\Desktop\\CENTRIA\\UNIVERSITYAPPLICATION\\UNIVERSITY_APPLICATION\\UNIVERSITY_APPLICATION\\wwwroot\\",
+      "BasePath": "_content/UNIVERSITY_APPLICATION",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

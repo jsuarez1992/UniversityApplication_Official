@@ -411,7 +411,9 @@ namespace UniversityTest
             {
                 StudentName = "Jane Doe",
                 RegionId =
-            regiomFromAdd.RegionId
+            regiomFromAdd.RegionId,
+                Email="jdoe@example.com",
+                Gender= GenderOptions.Female,
             };
 
             StudentResponse studentFromAdd = _studentService.AddStudent(studentAddRequest);

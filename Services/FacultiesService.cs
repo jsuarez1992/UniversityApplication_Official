@@ -75,7 +75,7 @@ namespace Services
                 throw new ArgumentNullException(nameof(facultyId));
 
             Faculty? faculty = _faculties.FirstOrDefault(temp=>temp.DegreeId==facultyId);
-            if (facultyId == null)
+            if (faculty == null)
                 return false;
             _faculties.RemoveAll(temp=>temp.DegreeId==facultyId);
             return true;

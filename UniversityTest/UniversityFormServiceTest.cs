@@ -338,14 +338,14 @@ namespace UniversityTest
         [Fact]
         public void UpdateForms_NullFormName()
         {
-            FacultyAddRequest? facultyFromAdd = new FacultyAddRequest() { DegreeName = "Biology" };
-            FacultyResponse? facultyResponse = _facultiesService.AddFaculty(facultyFromAdd);
+            FacultyAddRequest facultyFromAdd = new FacultyAddRequest() { DegreeName = "Biology" };
+            FacultyResponse facultyResponse = _facultiesService.AddFaculty(facultyFromAdd);
 
             UniversityFormAddRequest formAddRequest = new UniversityFormAddRequest()
             {
                 UniversityFormName =
             "ApplicationForm_JaneDoe",
-                DegreeId = facultyResponse.DegreeId
+                DegreeId = facultyResponse.DegreeId,
             };
 
             UniversityFormResponse formResponse = _universityFormService.AddUniversityForm(formAddRequest);
@@ -365,9 +365,9 @@ namespace UniversityTest
         public void UpdateForms_ProperFormUpdate()
         {
             FacultyAddRequest? facultyFromAdd = new FacultyAddRequest() { DegreeName = "Biology" };
-            FacultyResponse? facultyResponse = _facultiesService.AddFaculty(facultyFromAdd);
+            FacultyResponse facultyResponse = _facultiesService.AddFaculty(facultyFromAdd);
 
-            UniversityFormAddRequest formAddRequest = new UniversityFormAddRequest()
+            UniversityFormAddRequest? formAddRequest = new UniversityFormAddRequest()
             {
                 UniversityFormName =
             "ApplicationForm_JaneDoe",

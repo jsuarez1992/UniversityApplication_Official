@@ -76,9 +76,11 @@ namespace ServiceContracts.DTO
                 EnrolledUntil = universityForm.EnrolledUntil,
                 AverageScore = universityForm.AverageScore,
                 LevelOfStudy= universityForm.LevelOfStudy,
+                DegreeId=universityForm.DegreeId,
                 SemesterEnrollment = universityForm.SemesterEnrollment,
                 FirstChoice = universityForm.FirstChoice,
                 SecondChoice = universityForm.SecondChoice
+
             };
         }
     }

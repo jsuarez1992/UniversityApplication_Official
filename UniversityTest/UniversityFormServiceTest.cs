@@ -346,6 +346,8 @@ namespace UniversityTest
                 UniversityFormName =
             "ApplicationForm_JaneDoe",
                 DegreeId = facultyResponse.DegreeId,
+                LevelOfStudy=LevelOfStudyOptions.Undergraduate,
+                SemesterEnrollment=SemesterEntry.Spring,
             };
 
             UniversityFormResponse formResponse = _universityFormService.AddUniversityForm(formAddRequest);

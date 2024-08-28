@@ -52,6 +52,7 @@ namespace ServiceContracts.DTO
                 $"{LevelOfStudy}, Degree Id ={DegreeId}, Degree Name = {Degree}, " +
                 $"Semester Enrollment = {SemesterEnrollment}, First Choice={FirstChoice}, Second Choice={SecondChoice}";
         }
+
         public UniversityFormUpdateRequest ToUniversityFormUpdateRequest()
         {
             return new UniversityFormUpdateRequest() {UniversityFormId=UniversityFormId,UniversityFormName=
@@ -74,6 +75,7 @@ namespace ServiceContracts.DTO
                 EnrolledSince = universityForm.EnrolledSince,
                 EnrolledUntil = universityForm.EnrolledUntil,
                 AverageScore = universityForm.AverageScore,
+                LevelOfStudy= universityForm.LevelOfStudy,
                 SemesterEnrollment = universityForm.SemesterEnrollment,
                 FirstChoice = universityForm.FirstChoice,
                 SecondChoice = universityForm.SecondChoice

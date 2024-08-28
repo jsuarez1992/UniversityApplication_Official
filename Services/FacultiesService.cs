@@ -64,6 +64,10 @@ namespace Services
             if (matchingFaculty == null)
                 throw new ArgumentException("Given degree Id does not exist");
 
+            // if DegreeName is null or empty -> throw ArgumentException
+            if (string.IsNullOrEmpty(facultyUpdateRequest.DegreeName))
+                throw new ArgumentException("DegreeName cannot be null or empty");
+
             matchingFaculty.DegreeName = facultyUpdateRequest.DegreeName;
 
             return matchingFaculty.ToFacultyResponse();
